@@ -1,7 +1,7 @@
 ---
 title: "Inclusive Game Design: Agent Instructions"
 version: "1.0.0"
-author: "Prepared for Double FW Ltd with AI assistance"
+author: "Double FW Ltd"
 date: "2026-10-13"
 license: "NOASSERTION"
 language: "en-GB"
