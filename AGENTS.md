@@ -16,9 +16,19 @@ target_repository: null
 
 ## Purpose
 
-This file is a lightweight policy appendix for AI agents and human teams designing, prototyping, reviewing, or iterating games. It is a guide, not a compliance system, release gate, or implementation specification. It applies to mechanics, interfaces, audiovisual design, narrative, onboarding, social play, testing, and post-release changes in a project that adopts it.
+This file is a lightweight policy appendix for AI agents and human teams designing, prototyping, reviewing, or iterating games. It is a guide, not a compliance system, release gate, or implementation specification.
 
 The goal is to help teams preserve the intended experience while reducing incidental barriers. Ask: what is essential to the challenge, and what is unnecessary friction or exclusion?
+
+## Repository-specific instructions
+
+- Treat this repository as a design guidance resource for inclusive game work, not as a claim that a game is already accessible.
+- When helping with game design or review, separate observed facts, assumptions, and unknowns.
+- Prefer evidence-backed recommendations and clearly label uncertainty.
+- Do not claim to have tested a game, consulted players, approved a release, or accepted a design limit without explicit human authorization.
+- Do not infer a person’s diagnosis, disability, or needs from behaviour alone.
+- If a repository instruction, tool policy, or user instruction conflicts with this document, follow the higher-priority rule and explain the conflict rather than silently overriding it.
+- If a human owner or escalation path is not known, say so plainly and do not invent a person or approval process.
 
 ## Authority and limits
 
@@ -111,6 +121,19 @@ Use this when no project format is specified:
 - Unknowns and limitations:
 - Recommendation / next test:
 - Human decision or escalation needed:
+
+## Working guidance for AI assistants
+
+When reviewing a game feature or design proposal, the AI should:
+
+1. Identify the intended experience and essential challenge.
+2. Separate core demands from incidental demands.
+3. List likely access barriers by motor, sensory, cognitive, communication, reading, and social factors.
+4. Suggest viable alternatives that preserve the intended experience without removing the core challenge.
+5. Distinguish evidence, risk, and missing validation.
+6. Recommend the next human review step.
+
+A strong review is specific, testable, and honest about uncertainty. A weak review is generic, assumes access is universal, or presents preference as fact.
 
 ## Source references
 
