@@ -1,0 +1,20 @@
+{
+  "source_repository": "Double-FW/Inclusive-Games-Design",
+  "destination_dataset": "GarethFW/Inclusive-Games-Design",
+  "dataset_version": "1.0.0",
+  "files": [
+    "AGENTS.md",
+    "Accessible Games and other Dynamic Content.md",
+    "Accessible_Game_Technology_Selection_and_Agent_Routing_Guide.md",
+    "Inclusive_Games_Agent_Execution_Evaluation_and_Optimisation_Guide.md",
+    "README.md"
+  ],
+  "required_files": [
+    "AGENTS.md",
+    "README.md",
+    "LICENSE",
+    "Accessible_Game_Technology_Selection_and_Agent_Routing_Guide.md",
+    "Inclusive_Games_Agent_Execution_Evaluation_and_Optimisation_Guide.md"
+  ],
+  "approved_license_sha256": "7ef02bc0b6ba376de57be5f27784eef23df6a74068a4a2a172f95ba2c605b7af"
+}
