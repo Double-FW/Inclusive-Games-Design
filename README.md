@@ -208,3 +208,11 @@ The repository metadata currently indicates a project source and should be revie
 This resource is best used as a living design policy for AI-assisted game development. It helps an AI reason about player access, challenge, narrative, communication, and testing in a way that is grounded in evidence and human accountability.
 
 If you are building games with AI, use this repository to shape the conversation around inclusion from the beginning, not as a final-stage patch.
+
+## About the author
+
+Gareth Ford Williams is a senior leader in accessibility and inclusive design and co-founder of Double FW Ltd. His work spans accessibility, UX, technical standards, assistive technology and inclusive media. At the BBC, he led accessibility and UX work and chaired standards governance, translating research and policy into practical guidance.
+
+## About Double FW Ltd
+
+Double FW Ltd is a UK accessibility and inclusive design consultancy. It helps organisations build accessibility into strategy, governance, brands, products, content and services. Its public repositories provide practical guidance for people and AI-assisted workflows.
